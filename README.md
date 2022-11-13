@@ -13,7 +13,7 @@
 - 📫 How to reach me **hanzmedina7@gmail.com**
 
 - 📄 Know about my experiences https://www.slideshare.net/HanzMedina1/hanzmresume
-- ⚡ Fun fact **I know how to jam out with the saxophone**
+- ⚡ Fun fact **I know how play the saxophone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
