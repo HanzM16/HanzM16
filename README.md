@@ -1,6 +1,6 @@
 [![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)](http://HanzM16)
 <h1 align="center">Hi 👋, I'm Hanz Medina</h1>
-<h3 align="center">A passionate John Jay student learning frontend developlement from Queens, NY</h3>
+<h3 align="center">A passionate John Jay student learning frontend development from Queens, NY</h3>
 <img align="right" alt="Coding"  width="400" src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif">
                                                  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzm16&label=Profile%20views&color=0e75b6&style=flat" alt="hanzm16" /> </p>
